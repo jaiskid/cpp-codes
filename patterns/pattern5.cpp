@@ -6,6 +6,8 @@
  *****
   ***
    *
+   n-i spaces used 
+   2*i-1 stars used
 */
 #include <iostream>
 using namespace std;
