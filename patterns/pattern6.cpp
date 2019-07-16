@@ -1,5 +1,13 @@
 //author name Neeraj jaiswal
 //date 16 july 2019
+/*
+
+   *
+  ***
+ *****
+*******
+
+*/
 #include<iostream>
 using namespace std;
 int main(int argc, char const *argv[])
