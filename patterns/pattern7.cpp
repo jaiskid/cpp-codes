@@ -1,5 +1,12 @@
 //author name Neeraj jaiswal
 //date 16 july 2019
+/*
+A
+BB
+CCC
+DDDD
+EEEEE
+*/
 #include <iostream>
 using namespace std;
 int main(){
