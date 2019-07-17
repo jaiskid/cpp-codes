@@ -1,5 +1,5 @@
 //author name Neeraj jaiswal
-//date 17 july 
+//date 17 july 2019
 //spaces 2*(n-i)-1
 /*
 5 
