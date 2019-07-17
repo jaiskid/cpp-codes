@@ -1,5 +1,13 @@
 //author name Neeraj jaiswal
-//date 17 july 2019
+//date 17 july 
+/*
+5 
+1               1 
+1 2           2 1 
+1 2 3       3 2 1 
+1 2 3 4   4 3 2 1 
+1 2 3 4 5 4 3 2 1 
+*/
 #include<iostream>
 using namespace std;
 int main(){
