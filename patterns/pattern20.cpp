@@ -1,5 +1,6 @@
 //author name Neeraj jaiswal
 //date 17 july 
+//spaces 2*(n-i)-1
 /*
 5 
 1               1 
