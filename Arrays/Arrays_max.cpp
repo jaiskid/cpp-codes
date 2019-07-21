@@ -1,6 +1,13 @@
 //Author : Neeraj jaiswal
-//Date : 20th July 2019
+//Date : 21th July 2019
 //Arrays-Max Value In array
+/*
+Inputs
+5
+1 2 3 4 5
+output 
+5
+*/
 #include <iostream>
 using namespace std;
 int main(){
