@@ -33,6 +33,7 @@ int maxcircular(int *arr,int n){
         arr[i]=-arr[i];
     }
     a=a+kadane(arr,n);
+    cout<<a<<endl;
     return (a>maxkadane)?a:maxkadane;
     }
 
