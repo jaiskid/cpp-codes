@@ -14,7 +14,7 @@ int main(){
 		 if(i!=s.length()-1)
 		cout<<s[i]+to_string(d);
 		else{
-			cout<<s[i];
+			cout<<s[i]<<endl;
 		}
 	}
 }
