@@ -1,3 +1,7 @@
+//Author : Neeraj jaiswal
+// Date : 28 th july 2019
+//Input : aaabbccds
+//Output : a3b2c2d1s1
 #include<iostream>
 #include<cstring>
 using namespace std;
