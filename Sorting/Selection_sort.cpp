@@ -1,3 +1,5 @@
+//Author : Neeraj jaiswal
+//Date : 12 th aug 2019
 #include<iostream>
 using namespace std;
 void selection(int *a,int n){
